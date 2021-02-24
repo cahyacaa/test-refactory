@@ -1,0 +1,1 @@
+there is 5 function like task, just uncomment the function in func main

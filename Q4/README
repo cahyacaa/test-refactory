@@ -1,0 +1,2 @@
+i modified the map key value to array because when calling the function len(m) it will print 2 due to string length
+so if want t print len(m)=10 then i have to make number in loop append in empty array
